@@ -23,4 +23,4 @@ Identified key business insights and segmented 793 customers using RFM Analysis.
 - `rfm_data.csv` — RFM segmentation data
 
 ## Dashboard Preview
-[Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
