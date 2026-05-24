@@ -18,7 +18,7 @@ Identified key business insights and segmented 793 customers using RFM Analysis.
 
 ## Project Structure
 - `sales_analysis.ipynb` — EDA + RFM Analysis
-- `superstore_dashboard.pbix` — Power BI Dashboard
+- `op1 dashboard.pbix` — Power BI Dashboard
 - `superstore_clean.csv` — Cleaned dataset
 - `rfm_data.csv` — RFM segmentation data
 
