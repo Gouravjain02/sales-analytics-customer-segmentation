@@ -76,7 +76,8 @@ Features:
 * Interactive Filters and Drill-down Analysis
 
 ### Streamlit Application
-
+Local URL: http://localhost:8506
+  Network URL: http://10.218.159.127:8506
 Developed an interactive Streamlit application to make analytics and forecasting results accessible through a user-friendly web interface.
 
 Features:
